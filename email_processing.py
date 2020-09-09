@@ -1,4 +1,5 @@
-# This program will extract information from emails within Microsoft Outlook. The program can then aggregate data into 1 file and then send that data to the necessary party.
+# This program will extract information from emails within Microsoft Outlook. The program can then aggregate data into 1 file and then 
+# send that data to the necessary party/parties.
 # Some elements of this program have been removed. Certain URL paths are missing. Specific data analysis has also been removed.
 #!/usr/bin/env python
 # coding: utf-8
